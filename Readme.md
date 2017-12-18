@@ -98,7 +98,7 @@ The makefiles at the top and commentary levels support recursive invocation of m
     make DBNAME=tin PW=the-password
     ```
 
-This will recursively do a make(1) in *Commentaries/hollander* and all three canticas of Hollander, though there will be "nothing to do" in *Commentaries/hollander* and *inf*.
+This will recursively do a make(1) in *Commentaries/hollander* and all three canticas of Hollander, though there will be "nothing to be done" in *Commentaries/hollander* and *inf*.
 
 ##### Makefile Components
 

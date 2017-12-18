@@ -4,3 +4,10 @@ Changed database and website so that Conclusione and Nota Finale appear at the e
 hits.
 
 Also ran a script to locate line number formatting errors. There were about 50.		-stc
+-------------------------------------------------
+Entered on 18 Dec 2017 by steve:
+Modified Common.mk so that the name of the database and its password get specified on
+the make(1) command line instead of in the makefile.
+
+Also, as part of moving the project to git(1) repositories, I created more complete
+documentation in a Readme.md file. This uses socalled markdown syntax.			-stc
