@@ -88,7 +88,6 @@ This directory contains source files for the lex(1) executables in the bin direc
 The repository's *Commentaries* directory and all its commentary- and cantica-level subdirectories each contain a file named *Makefile*. The purpose of the makefiles is to allow you to use the Unix make(1) utility to load text changes into the DDP database after editing any of the ".e" files. At the commentary level, this would be the *desc.e* file, which contains the bibliographic description of the commentary; at the cantica level, it would be the *nn*.e files corresponding to the cantos of that cantica.
 
 The makefiles at the top and commentary levels support recursive invocation of make(1) into the lower directories. Thus you can edit as many ".e" files in as many directories as needed and then invoke make(1) at the highest directory level common to all your changes. For example if you have changes to make in the Purgatory and Paradiso of the Hollander commentary, you might do the following:
-
     ```
     cd Commentaries/hollander/purg
     vi 05.e 20.e
@@ -129,11 +128,11 @@ Because the structure of the commentary directories is uniform and the logic of 
     make DBNAME=tin PW=dbpassword
     ```
 
-1. Test the results by browsing to the test website at [https://dante-test.Dartmouth.EDU](https://dante-test.Dartmouth.EDU) and searching for the modified piece of commentary text.
+1. Test the results by browsing to the test website at [https://dante-dev.Dartmouth.EDU](https://dante-dev.Dartmouth.EDU) and searching for the modified piece of commentary text.
 
 ### Deploying text updates
 
-1. Once satisfied with the changes, repeat the make(1) specifying DBNAME=copper with the appropriate database password.
+1. Once satisfied with the changes, use touch(1) on the edited ".e" files and repeat the make(1) specifying DBNAME=copper with the appropriate database password.
 
 1. Use git to push your changes up to [https://git.dartmouth.edu/](https://git.dartmouth.edu/).
     ```
