@@ -1,4 +1,4 @@
-# Dante Text
+﻿# Dante Text
 
 This repository stores the source text files and database utilities for the [Dartmouth Dante Project (DDP)](https://dante.Dartmouth.EDU). (For information about the PHP files comprising the DDP website, refer to the dante-web repository.)
 
@@ -103,7 +103,7 @@ This will recursively do a make(1) in *Commentaries/hollander* and all three can
 
 Because the structure of the commentary directories is uniform and the logic of the make process is similar thoroughout, we have extracted the bulk of the makefile text into a few component files at the top *Commentaries* level and designed the actual Makefile files to *include* those common components. Here's how it works. 
 
-- Each commentary directory contains a file named *Desc.mk*. This short file contains definitions of make(1) variables that describe that particular commentary. For example, the Hollander's *Desc.mk* file is
+ - Each commentary directory contains a file named *Desc.mk*. This short file contains definitions of make(1) variables that describe that particular commentary. For example, the Hollander's *Desc.mk* file is
     ```
     #
     # hollander
@@ -113,9 +113,10 @@ Because the structure of the commentary directories is uniform and the logic of 
     comm_lang	:= us
     canticas	:= inf purg para
     ```
-- At the top *Commentaries* level are three component files named *Poem.mk, Commentary.mk,* and *Cantica.mk*. These components provide make(1) variable definitions and targets appropriate for the *poem* directory, the commentary-level directories, and the cantica directories, respectively. They contain *include* commands for the appropriate *Desc.mk* file. Finally they *include* the file *Common.mk*.
--  The file named *Common.mk* at the top level contains the commands that actually preprocess the ".e" files into a form acceptable to Oracle and then invoke the Oracle utility programs to load the data. There is a section in *Common.mk* for each type of data: commentary description files (*desc.e*), and poem and commentary text files (*nn*.e).
--  At each level of the *Commentaries* directory tree is a file named *Makefile*. This is the file that make(1) expects to find. At the top level it simply recursively invokes make(1) in each subdirectory. At the lower levels it simply invokes the appropriate *\*.mk* file from the top level.
+ - At the top *Commentaries* level are three component files named *Poem.mk, Commentary.mk,* and *Cantica.mk*. These components provide make(1) variable definitions and targets appropriate for the *poem* directory, the commentary-level directories, and the cantica directories, respectively. They contain *include* commands for the appropriate *Desc.mk* file. Finally they *include* the file *Common.mk*.
+ -  The file named *Common.mk* at the top level contains the commands that actually preprocess the ".e" files into a form acceptable to Oracle and then invoke the Oracle utility programs to load the data. There is a section in *Common.mk* for each type of data: commentary description files (*desc.e*), and poem and commentary text files (*nn*.e).
+ -  At each level of the *Commentaries* directory tree is a file named *Makefile*. This is the file that make(1) expects to find. At the top level it simply recursively invokes make(1) in each subdirectory. At the lower levels it simply invokes the appropriate *\*.mk* file from the top level.
+ - The makefiles also support utility targets in addition to the default "all" target. These include "dat" to generate the preprocessed data files from the .e files but without loading the results, "up-to-date" to touch(1) all the *.log files so that it appears that all data is loaded (which may be the case if you just cloned this repository), and "clean" to remove all preprocessed and log files, making it appear that no data is loaded.
 
 ### Making updates to the DDP text
 

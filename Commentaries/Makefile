@@ -1,9 +1,13 @@
 #
 # Top-level Makefile for the Dartmouth Dante Project
 #
-
+# Targets you may use:
 #
-# For targets "dat" and "clean", usages is "make TARGET=dat" etc.
+# all (or none):		cause all modified text files (*.e) to be preprocessed and loaded into Oracle
+# Poem or commentary name:	cause all modified text files (*.e) in that commentary to be preprocessed and loaded
+# dat:				generate any *.dat files from modified text (*.e) files
+# up-to-date:			make it appear that all text files have been loaded into Oracle
+# clean:			make it appear that NO text files have been loaded into Oracle
 #
 
 commentaries := ambrosiane andreoli bennassuti benvenuto berthier bianchi boccaccio bosco buti \
@@ -17,11 +21,15 @@ commentaries := ambrosiane andreoli bennassuti benvenuto berthier bianchi boccac
 	vellutello venturi vernon villani
 
 
-.PHONY:	all poem $(commentaries)
+.PHONY:		all poem $(commentaries) dat up-to-date clean
 
-all:	poem $(commentaries)
+all:		poem $(commentaries)
 
-dat:	poem $(commentaries)
+poem $(commentaries):
+	$(MAKE) --directory=$@ all
 
-$(commentaries) poem:
-	$(MAKE) --directory=$@ $(TARGET)
+dat up-to-date clean:
+	for d in poem $(commentaries);			\
+	do						\
+		$(MAKE) --directory=$$d $@;		\
+	done

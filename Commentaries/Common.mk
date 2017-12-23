@@ -1,10 +1,8 @@
 #
 # Common rules for all DDP Makefiles
 #
-# This file, and only this file, tell how to generate
-# description, poem, and commentary text load files from .e files,
-# and how to load descriptions and commentary text and
-# generate the corresponding "loaded" (.cld, .pld, and .tld) files.
+# This file, and only this file, tell how to load description,
+# poem, and commentary text from .e files into the database.
 #
 # This file gets included from the Makefiles in the commentary
 # and cantica directories.
@@ -14,10 +12,10 @@
 # The following code uses command-line arguments to set the userid to use with Oracle.
 # The resulting USERID should look like one of these:
 #
-#userid	:=	dante/password@dante		# corresponds to the "copper" database
-#userid	:=	dante/password@dante_baseline	# tin
-#userid :=	dante/password@dante_upgrade	# lead
-#userid	:=	dante/password@dante_silver	# silver (Obsolete)
+#	dante/password@dante		# corresponds to the "copper" database
+#	dante/password@dante_baseline	# tin
+#	dante/password@dante_upgrade	# lead
+#	dante/password@dante_silver	# silver (Obsolete)
 
 ifndef USERID
         ifeq "$(DBNAME)" "tin"
@@ -37,7 +35,7 @@ ifndef USERID
 endif
 
 #
-# top level of the commentary text maintenance files
+# top level of the commentary text maintenance files - customize as needed for your installation
 #
 top	:= 	$(HOME)/Dante/dante-text
 
@@ -59,15 +57,9 @@ relpath	:=	$(subst $(commdir),,$(abspath))
 	ddp2html < $< | \
 	ddp2descsql $(comm_id) $(comm_name) $(comm_lang) > $@
 
-%.cld:	%.cdat
-	if [ -f $@ ];		\
-	then			\
-		sqlplus $(USERID) @delete_desc $(comm_id) && rm -f $@;	\
-	else			\
-		true;		\
-	fi
+%.log:	%.cdat
+	sqlplus $(USERID) @delete_desc $(comm_id)
 	sqlldr USERID=$(USERID) CONTROL=$(ctldir)/ddp_comm_tab.ldrctl LOG=desc.log DATA=$< BAD=/dev/null
-	touch $@
 
 #
 # For commentary text files
@@ -78,15 +70,9 @@ relpath	:=	$(subst $(commdir),,$(abspath))
 	ddp2html < $< | \
 	ddp2textsql $(relpath)/$*.e $(comm_id) $(comm_lang) $(cantica) $* > $@
 
-%.tld:	%.tdat
-	if [ -f $@ ];		\
-	then			\
-		sqlplus $(USERID) @delete_text $(relpath)/$*.e && rm -f $@;	\
-	else			\
-		true;		\
-	fi
+%.log:	%.tdat
+	sqlplus $(USERID) @delete_text $(relpath)/$*.e
 	sqlldr USERID=$(USERID) CONTROL=$(ctldir)/ddp_text_tab.ldrctl LOG=$*.log DATA=$< BAD=/dev/null
-	touch $@
 
 #
 # For poem text files
@@ -97,12 +83,6 @@ relpath	:=	$(subst $(commdir),,$(abspath))
 	ddp2html < $< | \
 	ddp2poemsql $(relpath)/$< $(comm_id) $(comm_lang) $(cantica) $* > $@
 
-%.pld:	%.pdat
-	if [ -f $@ ];		\
-	then			\
-		sqlplus $(USERID) @delete_text $(relpath)/$*.e && rm -f $@;	\
-	else			\
-		true;		\
-	fi
+%.log:	%.pdat
+	sqlplus $(USERID) @delete_text $(relpath)/$*.e
 	sqlldr USERID=$(USERID) CONTROL=$(ctldir)/ddp_text_tab.ldrctl LOG=$*.log DATA=$< BAD=/dev/null
-	touch $@

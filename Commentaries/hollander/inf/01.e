@@ -1,4 +1,4 @@
-	|1.~ The first of the 14,232 lines that constitute the ^Comedy~
+	|1.~ The first of the 14,233 lines that constitute the ^Comedy~
 immediately establishes a context for the poem that is both universal
 and particular. It also immediately compels a reader to realize that
 this is a difficult text, one that may not be read passively, but must

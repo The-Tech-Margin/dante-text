@@ -25,6 +25,8 @@ Petrocchi -- is offered to the community of scholars.
 This text is an exact replica of the Petrocchi text; its only
 divergence occurs in the form of its punctuation, which accords
 with American rather than Italian usage.
+
+Diacritic test: a grave: @a, a aigu: $a, cedilla: $c, a umlaut: ,a, o circumflex: #o.
 ..ATTR:
 copyright
 ..DENT:
