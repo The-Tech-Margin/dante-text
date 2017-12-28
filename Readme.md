@@ -120,7 +120,7 @@ Because the structure of the commentary directories is uniform and the logic of 
 
 ### Making updates to the DDP text
 
-1. *You will need to be on campus or using the VPN for the following steps.* Routine updates typically consist of minor editorial changes such as correcting typos in the commentary texts. The procedure is to go to the commentary subdirectory where the change is needed, edit the *nn*.e file containing the affected text, and do a make(1) command to reload the text into the Oracle database. For example, if there were a typo in the Hollander commentary's text about Inferno, canto 1, line 50, you might do the following:
+ 1. *You will need to be on campus or using the VPN for the following steps.* Routine updates typically consist of minor editorial changes such as correcting typos in the commentary texts. The procedure is to go to the commentary subdirectory where the change is needed, edit the *nn*.e file containing the affected text, and do a make(1) command to reload the text into the Oracle database. For example, if there were a typo in the Hollander commentary's text about Inferno, canto 1, line 50, you might do the following:
 
     ```
     cd $HOME/Dante/dante-text/Commentaries/hollander/inf
@@ -129,7 +129,12 @@ Because the structure of the commentary directories is uniform and the logic of 
     make DBNAME=tin PW=dbpassword
     ```
 
-1. Test the results by browsing to the test website at [https://dante-dev.Dartmouth.EDU](https://dante-dev.Dartmouth.EDU) and searching for the modified piece of commentary text.
+ 2. If you have modified text in one of the commentaries, you need to regenerate the full text index for the database. (If all you did was modify one of the commentary description files, desc.e, then you do not need to reindex.) To reindex the database, do the following:
+    ```
+    make DBNAME=tin PW=dbpassword reindex
+    ```
+
+ 3. Test the results by browsing to the test website at [https://dante-dev.Dartmouth.EDU](https://dante-dev.Dartmouth.EDU) and searching for the modified piece of commentary text.
 
 ### Deploying text updates
 

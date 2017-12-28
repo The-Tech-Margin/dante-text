@@ -34,6 +34,8 @@ ifndef USERID
         export USERID
 endif
 
+.PHONY:		reindex
+
 #
 # top level of the commentary text maintenance files - customize as needed for your installation
 #
@@ -86,3 +88,9 @@ relpath	:=	$(subst $(commdir),,$(abspath))
 %.log:	%.pdat
 	sqlplus $(USERID) @delete_text $(relpath)/$*.e
 	sqlldr USERID=$(USERID) CONTROL=$(ctldir)/ddp_text_tab.ldrctl LOG=$*.log DATA=$< BAD=/dev/null
+
+#
+# To regenerate the full text index, such as after loading updates
+#
+reindex:
+	sqlplus $(USERID) @reindex

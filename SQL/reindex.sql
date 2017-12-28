@@ -10,3 +10,4 @@
 ALTER INDEX ddp_text_text_idx
 	REBUILD
 	;
+EXIT
