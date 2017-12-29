@@ -20,8 +20,9 @@ commentaries := ambrosiane andreoli bennassuti benvenuto berthier bianchi boccac
 	singleton steiner tasso tommaseo torraca tozer trucchi vandelli varchi \
 	vellutello venturi vernon villani
 
+include		Userid.mk
 
-.PHONY:		all poem $(commentaries) dat up-to-date clean
+.PHONY:		all poem $(commentaries) dat up-to-date clean reindex
 
 all:		poem $(commentaries)
 
@@ -33,3 +34,10 @@ dat up-to-date clean:
 	do						\
 		$(MAKE) --directory=$$d $@;		\
 	done
+    
+#   
+# To regenerate the full text index, such as after loading updates
+#   
+reindex:
+	sqlplus $(USERID) @reindex
+
