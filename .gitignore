@@ -17,6 +17,8 @@ errs.*
 
 *.log
 
-*.cld
-*.tld
-*.pld
+#
+# Various temporary Unix files
+#
+a.out
+*junk*

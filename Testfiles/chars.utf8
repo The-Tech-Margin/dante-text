@@ -1,4 +1,4 @@
-A series of characters including plain and accented.
+A series of characters including plain, accented, and Greek.
 
 a b c d e f - plain lowercase
 A B C D E F - plain uppercase
@@ -8,3 +8,5 @@ A B C D E F - plain uppercase
 ç Ç - cedilla'd c and C
 ä Ä - umlauted a and A
 û Û - circumflexed u and U
+
+alpha without and with accents: &alpha; &#x1F71; &#x1F01; &#x1FB0;

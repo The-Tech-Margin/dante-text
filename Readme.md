@@ -71,7 +71,7 @@ This directory contains source files for the lex(1) executables in the bin direc
     export LD_LIBRARY_PATH
 
     # NLS_LANG is used by Oracle to specify the default language of the database.
-    NLS_LANG=American_America.WE8ISO8859P1
+    NLS_LANG=American_America.AL32UTF8
     export NLS_LANG
 
     # Definitions for git(1) to use for commits.
@@ -101,7 +101,7 @@ This will recursively do a make(1) in *Commentaries/hollander* and all three can
 
 ##### Makefile Components
 
-Because the structure of the commentary directories is uniform and the logic of the make process is similar thoroughout, we have extracted the bulk of the makefile text into a few component files at the top *Commentaries* level and designed the actual Makefile files to *include* those common components. Here's how it works. 
+Because the structure of the commentary directories is uniform and the logic of the make process is similar throughout, we have extracted the bulk of the makefile text into a few component files at the top *Commentaries* level and designed the actual Makefile files to *include* those common components. Here's how it works. 
 
  - Each commentary directory contains a file named *Desc.mk*. This short file contains definitions of make(1) variables that describe that particular commentary. For example, the Hollander's *Desc.mk* file is
     ```
@@ -115,8 +115,9 @@ Because the structure of the commentary directories is uniform and the logic of 
     ```
  - At the top *Commentaries* level are three component files named *Poem.mk, Commentary.mk,* and *Cantica.mk*. These components provide make(1) variable definitions and targets appropriate for the *poem* directory, the commentary-level directories, and the cantica directories, respectively. They contain *include* commands for the appropriate *Desc.mk* file. Finally they *include* the file *Common.mk*.
  -  The file named *Common.mk* at the top level contains the commands that actually preprocess the ".e" files into a form acceptable to Oracle and then invoke the Oracle utility programs to load the data. There is a section in *Common.mk* for each type of data: commentary description files (*desc.e*), and poem and commentary text files (*nn*.e).
+ -  The file named *Userid.mk* contains commands to process the DBNAME and PW command line parameters that are needed for many of the make(1) functions. It gets *included* by other component files.
  -  At each level of the *Commentaries* directory tree is a file named *Makefile*. This is the file that make(1) expects to find. At the top level it simply recursively invokes make(1) in each subdirectory. At the lower levels it simply invokes the appropriate *\*.mk* file from the top level.
- - The makefiles also support utility targets in addition to the default "all" target. These include "dat" to generate the preprocessed data files from the .e files but without loading the results, "up-to-date" to touch(1) all the *.log files so that it appears that all data is loaded (which may be the case if you just cloned this repository), and "clean" to remove all preprocessed and log files, making it appear that no data is loaded.
+ - The makefiles also support utility targets in addition to the default "all" target. These include "dat" to generate the preprocessed data files from the .e files but without loading the results, "reindex" to regenerate the text index after you reload text, "up-to-date" to touch(1) all the *.log files so that it appears that all data is loaded (which may be the case if you just cloned this repository), and "clean" to remove all preprocessed and log files, making it appear that no data is loaded.
 
 ### Making updates to the DDP text
 

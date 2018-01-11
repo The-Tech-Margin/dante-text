@@ -32,7 +32,7 @@ include		$(commdir)/Userid.mk
 
 %.cdat:	%.e
 	rm -f $@
-	ddp2html < $< | \
+	ddp2html8 < $< | \
 	ddp2descsql $(comm_id) $(comm_name) $(comm_lang) > $@
 
 %.log:	%.cdat
@@ -45,7 +45,7 @@ include		$(commdir)/Userid.mk
 
 %.tdat:	%.e
 	rm -f $@
-	ddp2html < $< | \
+	ddp2html8 < $< | \
 	ddp2textsql $(relpath)/$*.e $(comm_id) $(comm_lang) $(cantica) $* > $@
 
 %.log:	%.tdat
@@ -58,7 +58,7 @@ include		$(commdir)/Userid.mk
 
 %.pdat:	%.e
 	rm -f $@
-	ddp2html < $< | \
+	ddp2html8 < $< | \
 	ddp2poemsql $(relpath)/$< $(comm_id) $(comm_lang) $(cantica) $* > $@
 
 %.log:	%.pdat
