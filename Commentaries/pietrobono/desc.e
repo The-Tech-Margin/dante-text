@@ -7,7 +7,7 @@ Italian
 ..AUTH:
 Luigi Pietrobono
 ..PUBD:
-1946 [1924-30]
+1949 [1924-30]
 ..PUBL:
 La Divina Commedia di Dante Alighieri commentata da Luigi
 Pietrobono d.S.P.  4a edizione, Torino, Societ@a Editrice
