@@ -1,4 +1,4 @@
-﻿# Dante Text
+# Dante Text
 
 This repository stores the source text files and database utilities for the [Dartmouth Dante Project (DDP)](https://dante.Dartmouth.EDU). (For information about the PHP files comprising the DDP website, refer to the dante-web repository.)
 
@@ -23,7 +23,7 @@ A collection of text files representing different character encodings such as UT
 ##### Webapp-Archive/
 A small collection of home directory files from the previous DDP server webapp.Dartmouth.EDU. They are mostly of historic interest, though some may be useful for configuring editors and login shells.
 ##### bin/
-A collection of executables that are invoked by the commentary makefiles to load text into the database, plus a few handy scripts used to annotate work on the DDP. *This directory should by the the PATH environment variable of anyone maintaining the database.*
+A collection of executables that are invoked by the commentary makefiles to load text into the database, plus a few handy scripts used to annotate work on the DDP. *This directory should be in the PATH environment variable of anyone maintaining the database.*
 ##### lib/
 An archive of files used to load previous instances of the DDP. These files are of historic interest only.
 ##### src/
@@ -52,6 +52,7 @@ This directory contains source files for the lex(1) executables in the bin direc
 1. Make sure the executables in the repo's bin directory are valid on your computer. Recompile them if necessary. Then make sure the bin directory is in your PATH.
 
 1. Add the appropriate environment variables to your login shell profile. For example:
+ 
     ```
     #
     # Environment variables needed (or just handy) for working on the Dante Project.
@@ -88,6 +89,7 @@ This directory contains source files for the lex(1) executables in the bin direc
 The repository's *Commentaries* directory and all its commentary- and cantica-level subdirectories each contain a file named *Makefile*. The purpose of the makefiles is to allow you to use the Unix make(1) utility to load text changes into the DDP database after editing any of the ".e" files. At the commentary level, this would be the *desc.e* file, which contains the bibliographic description of the commentary; at the cantica level, it would be the *nn*.e files corresponding to the cantos of that cantica.
 
 The makefiles at the top and commentary levels support recursive invocation of make(1) into the lower directories. Thus you can edit as many ".e" files in as many directories as needed and then invoke make(1) at the highest directory level common to all your changes. For example if you have changes to make in the Purgatory and Paradiso of the Hollander commentary, you might do the following:
+
     ```
     cd Commentaries/hollander/purg
     vi 05.e 20.e
@@ -104,6 +106,7 @@ This will recursively do a make(1) in *Commentaries/hollander* and all three can
 Because the structure of the commentary directories is uniform and the logic of the make process is similar throughout, we have extracted the bulk of the makefile text into a few component files at the top *Commentaries* level and designed the actual Makefile files to *include* those common components. Here's how it works. 
 
  - Each commentary directory contains a file named *Desc.mk*. This short file contains definitions of make(1) variables that describe that particular commentary. For example, the Hollander's *Desc.mk* file is
+
     ```
     #
     # hollander
@@ -131,6 +134,7 @@ Because the structure of the commentary directories is uniform and the logic of 
     ```
 
  2. If you have modified text in one of the commentaries, you need to regenerate the full text index for the database. (If all you did was modify one of the commentary description files, desc.e, then you do not need to reindex.) To reindex the database, do the following:
+
     ```
     make DBNAME=tin PW=dbpassword reindex
     ```
@@ -142,6 +146,7 @@ Because the structure of the commentary directories is uniform and the logic of 
 1. Once satisfied with the changes, use touch(1) on the edited ".e" files and repeat the make(1) specifying DBNAME=copper with the appropriate database password.
 
 1. Use git to push your changes up to [https://git.dartmouth.edu/](https://git.dartmouth.edu/).
+
     ```
     # Tell Git to pick up and track any changes made
     cd $HOME/Dante/dante-text

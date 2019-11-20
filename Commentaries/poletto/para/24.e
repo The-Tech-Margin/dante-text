@@ -1014,7 +1014,7 @@ nel ^Conv.~, II, 9 e 15; e l'Ottimo ha di spesso |soffera~ e
 da ^sofferare.~  -- |Sunt et este~ (secondo la pronuncia romana
 attuale, che suole ad ogni voce latina, terminata per consonante
 aggiungervi un ^e~; un quissimile del ^Deusci~, invece di ^Deus~,
-che Dante biasima ne' Rornagnuoli, e specialmente ne' Forlivesi:
+che Dante biasima ne' Romagnuoli, e specialmente ne' Forlivesi:
 ^Vulg. El.~, I, 14); ^sono~ tre Persone, ^@e~ un solo Dio; nella
 ^Vit. N.~, {Paragraph.} 30: <Padre, Figliuolo e Spirito Santo, li
 quali sono tre ed uno.>
