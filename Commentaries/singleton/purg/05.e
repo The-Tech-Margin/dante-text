@@ -232,7 +232,7 @@ dear to him, even as this first spirit to speak knows (vs. 65).
 Dante too is seeking peace with God, through realm after realm of
 the afterlife, guided by Virgil first through Hell, now through
 Purgatory, at the summit of which he will attain to a first, if
-imperfect, peace (see ^Purg.~ XVII, 115-17).
+imperfect, peace (see ^Purg.~ XXVII, 115-17).
 
 	|63.  cercar mi si face~: The peace, which is the goal,
 is said to inspire the pilgrim with desire for itself, even as

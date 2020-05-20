@@ -143,7 +143,7 @@ Because the structure of the commentary directories is uniform and the logic of 
 
 ### Deploying text updates
 
-1. Once satisfied with the changes, use touch(1) on the edited ".e" files and repeat the make(1) specifying DBNAME=copper with the appropriate database password.
+1. Once satisfied with the changes, use touch(1) on the edited ".e" files and repeat the make(1) specifying DBNAME=copper with the appropriate database password. Regenerate the index if needed.
 
 1. Use git to push your changes up to [https://git.dartmouth.edu/](https://git.dartmouth.edu/).
 
