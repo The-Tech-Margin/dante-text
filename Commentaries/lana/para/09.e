@@ -406,7 +406,7 @@ parve di dover dire.> -- nota aggiunta da L. Scarabelli} e lui
 uccise e subiug@oe.  Andando scapigliata Jole per la terra, costui
 la vide e innamor@oe di lei, e tolsela per moglieri.  Costei lo
 aderb@oe, e facea lo maggiore strazio del mondo di lui, facealo
-filare, e innaspare, ed essa si mattea le sue arme, e facealo
+filare, e innaspare, ed essa si mettea le sue arme, e facealo
 specchiare con essa; questi tanto l'amava, che non si potea
 partire da lei n@e di quello paese.  Deianira sua prima mogliere
 veggendo che costui non tornava da lei, dopo pi@u lettere li mand@o
