@@ -245,7 +245,7 @@ int	dquot_toggle = 0;
 	 */
 	if (fontp < MAXFONT) {
 		printf("<b>");
-		font[fontp++] = "b";
+		font[++fontp] = "b";
 	}
 }
 \^ {
@@ -254,7 +254,7 @@ int	dquot_toggle = 0;
 	 */
 	if (fontp < MAXFONT) {
 		printf("<i>");
-		font[fontp++] = "i";
+		font[++fontp] = "i";
 	}
 }
 \+ {
@@ -263,14 +263,14 @@ int	dquot_toggle = 0;
 	 */
 	if (fontp < MAXFONT) {
 		printf("<sup>");
-		font[fontp++] = "sup";
+		font[++fontp] = "sup";
 	}
 }
 ~ {
 	/*
 	 * End special font
 	 */
-	for (; fontp > 0; ) {
-		printf("</%s>", font[--fontp]);
+	for (; fontp > 0; fontp--) {
+		printf("</%s>", font[fontp]);
 	}
 }

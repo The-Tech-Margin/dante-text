@@ -18,3 +18,9 @@ Fixed blank-tab formatting and re-preloaded
 -------------------------------------------------
 Entered on 28 Apr 2004 by dante:
 Preloaded
+-------------------------------------------------
+Entered on 18 Sep 2021 by steve:
+Corrected an OCR typo in canto 11, line 85. Then found that ddp2html8
+segmentation faulted on the file. Turns out there was a bug in ddp2html8
+that was driven by another encoding error, this one in line 73. So I
+fixed the bug in ddp2html8 and corrected the error in 11.e and all seems well.

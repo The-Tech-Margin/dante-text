@@ -241,7 +241,7 @@ sal@i ^Feroce~ per ^coraggioso~ dissero altri pure.  Vedi 'l
 Vocabolario della Crusca.  E di ^salse~ per ^sal@i~ vedi il
 ^Prospetto di verbi Toscani~ sotto il verbo ^salire~ num. 13.
 
-	|73.  Chiuso^per ^oscuro~, ^coperto.~  Volpi.
+	|73.  Chiuso~ per ^oscuro~, ^coperto.~  Volpi.
 
 	|75.  Prendi~, intendi -- ^diffuso~, per ^esteso~, o per
 ^lungo~; com' effettivamete @e fin qu@i stato nel circonscriverne
@@ -267,7 +267,7 @@ di s.  Francesco.
 	|84.  Allo sposo~, della povert@a~, a s.  Francesco --
 ^s@i la sposa piace~, per ^piaceva~, enallage di tempo.
 
-	|85.  Sen va~, inteudi~, ^a Roma da Innocenzo III.
+	|85.  Sen va~, intendi~, ^a Roma da Innocenzo III.
 Papa~, come in appresso far@a capire.
 
 	|87.  Legava l'umile capestro~, il sacro cordone~:
