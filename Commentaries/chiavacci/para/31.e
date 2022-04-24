@@ -967,7 +967,7 @@ stesso ardore...
 -- ^caldo... caler~: si noti la forte allitterazione della figura
 etimologica (^caler~ @e l'infinito latino sostantivato di ^caleo,~
 essere caldo, ardente); la lezione, autorevolmente tradita, @e stata
-giustamente preferita dal Petrocchi a ^calar~ delle edizioni precedenti
+giustamente preferita dal Petrocchi a ^calor~ delle edizioni precedenti
 come ^difficilior~ (cfr. ^Introduzione~, p. 253).
 
 	|141-142.~ ^li suoi con tanto affetto...~: libero di tornare
