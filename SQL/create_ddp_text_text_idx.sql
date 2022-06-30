@@ -10,7 +10,7 @@
  */
 
 CREATE INDEX ddp_text_text_idx
-	ON ddp_text_tab(text)
+	ON dante.ddp_text_tab(text)
 	INDEXTYPE IS CTXSYS.CONTEXT
 	PARAMETERS ('LEXER ddp_lexer
                      STORAGE ddp_lob_storage

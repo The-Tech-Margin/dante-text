@@ -391,7 +391,7 @@ pi@u alto; ^i loro scanni~: i loro seggi. I beati si immaginano seduti
 sui troni, come poi appariranno nell'Empireo, e come erano raffigurati
 nelle pale dei pittori del tempo.
 
-	|32.~ ^che mo t'apparire~: che poco fa ti si mostrarono nella
+	|32.~ ^che mo t'appariro~: che poco fa ti si mostrarono nella
 sfera lunare, cio@e nella pi@u bassa. Gli spiriti pi@u alti in merito,
 e pi@u bassi, abitano quindi tutti lo stesso cielo.
 

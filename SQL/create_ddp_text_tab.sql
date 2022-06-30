@@ -6,7 +6,7 @@
  * each tercet of the poem and for each piece of commentary text.
  *
  */
-CREATE TABLE ddp_text_tab (
+CREATE TABLE dante.ddp_text_tab (
    /*
     * doc_id is the unique identifier for a piece of commentary or poem
     * text. It is a text string defined as follows:
@@ -111,4 +111,4 @@ CREATE TABLE ddp_text_tab (
    TABLESPACE dante_data
    LOB (text) STORE AS ddp_lob_seg (TABLESPACE dante_lob)
 ;
-GRANT SELECT ON ddp_text_tab TO dante_user ;
+GRANT SELECT ON dante.ddp_text_tab TO dante_user ;

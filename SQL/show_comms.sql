@@ -19,6 +19,6 @@ COLUMN comm_data_load_date HEADING 'Last Load'
 
 BREAK ON comm_id SKIP PAGE
 
-SELECT * FROM ddp_comm_tab
+SELECT * FROM dante.ddp_comm_tab
 	WHERE &where_phrase
 	ORDER BY comm_id;

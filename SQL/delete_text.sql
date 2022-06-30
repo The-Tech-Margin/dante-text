@@ -4,6 +4,6 @@
 -- This script gets invoked from the Makefile at C/Common.mk.
 --
 SET VERIFY OFF
-DELETE FROM ddp_text_tab WHERE source_path = '&1' ;
+DELETE FROM dante.ddp_text_tab WHERE source_path = '&1' ;
 COMMIT ;
 EXIT

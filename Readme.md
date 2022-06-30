@@ -130,13 +130,13 @@ Because the structure of the commentary directories is uniform and the logic of 
     cd $HOME/Dante/dante-text/Commentaries/hollander/inf
     vim 01.e
         # Fix the typo after finding the text about line 50.
-    make DBNAME=tin PW=dbpassword
+    make DBNAME=zinc PW=dbpassword
     ```
 
  2. If you have modified text in one of the commentaries, you need to regenerate the full text index for the database. (If all you did was modify one of the commentary description files, desc.e, then you do not need to reindex.) To reindex the database, do the following:
 
     ```
-    make DBNAME=tin PW=dbpassword reindex
+    make DBNAME=zinc PW=dbpassword reindex
     ```
 
  3. Test the results by browsing to the test website at [https://dante-dev.Dartmouth.EDU](https://dante-dev.Dartmouth.EDU) and searching for the modified piece of commentary text.

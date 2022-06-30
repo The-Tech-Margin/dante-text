@@ -9,7 +9,7 @@
  * the commentaries. The ddp_text_tab table does that.
  *
  */
-CREATE TABLE ddp_comm_tab (
+CREATE TABLE dante.ddp_comm_tab (
    /*
     * comm_id is the unique identifier for a commentary. It is a character
     * string consisting of the 4 digits of the publication year of the
@@ -97,4 +97,4 @@ CREATE TABLE ddp_comm_tab (
    )
    TABLESPACE DANTE_DATA
 ;
-GRANT SELECT ON ddp_comm_tab TO dante_user ;
+GRANT SELECT ON dante.ddp_comm_tab TO dante_user ;

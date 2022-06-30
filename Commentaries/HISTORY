@@ -11,3 +11,6 @@ the make(1) command line instead of in the makefile.
 
 Also, as part of moving the project to git(1) repositories, I created more complete
 documentation in a Readme.md file. This uses socalled markdown syntax.			-stc
+-------------------------------------------------
+Entered on 30 Jun 2022 by steve:
+Updated Userid.mk to reflect the move of the test version from tin to zinc.

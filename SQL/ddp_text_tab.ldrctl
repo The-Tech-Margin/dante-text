@@ -9,7 +9,7 @@ OPTIONS (SILENT=FEEDBACK)
 LOAD DATA
   CHARACTERSET 'AL32UTF8'
   INFILE '/dev/null' "str '###\n'"
-  APPEND INTO TABLE ddp_text_tab
+  APPEND INTO TABLE dante.ddp_text_tab
   (
   doc_id		CHAR TERMINATED BY ',' ENCLOSED BY '"',
   comm_id		CHAR TERMINATED BY ',' ENCLOSED BY '"',

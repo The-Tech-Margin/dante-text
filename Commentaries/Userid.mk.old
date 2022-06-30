@@ -1,24 +1,21 @@
 #
 # The following code uses command-line arguments to set the userid to use with Oracle.
-# The resulting USERID should look like one of these (where "password" is the pw for that DB):
+# The resulting USERID should look like one of these:
 #
 #	dante/password@dante		# corresponds to the "copper" database
-#	dante/password@zinc 		# corresponds to the "zinc" database
-#
-# Below are older versions, which are obsolete as of June, 2022.
 #	dante/password@dante_baseline	# tin
 #	dante/password@dante_upgrade	# lead
-#	dante/password@dante_silver	# silver
+#	dante/password@dante_silver	# silver (Obsolete)
 
 ifndef USERID
-        ifeq "$(DBNAME)" "zinc"
-                SERVICE = zinc
+        ifeq "$(DBNAME)" "tin"
+                SERVICE = dante_baseline
         endif
         ifeq "$(DBNAME)" "copper"
                 SERVICE = dante
         endif
         ifndef SERVICE
-            $(error Unrecognized or missing value for DBNAME. Use DBNAME=zinc or DBNAME=copper)
+            $(error Unrecognized or missing value for DBNAME. Use DBNAME=tin or DBNAME=copper)
         endif
         ifndef PW
             $(error No password specified. Include PW=password on the command line)

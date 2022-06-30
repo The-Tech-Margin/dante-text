@@ -4,5 +4,5 @@
 -- This script gets invoked from the Makefile at C/Common.mk
 --
 SET VERIFY OFF
-DELETE FROM ddp_comm_tab WHERE comm_id = &1 ;
+DELETE FROM dante.ddp_comm_tab WHERE comm_id = &1 ;
 EXIT
