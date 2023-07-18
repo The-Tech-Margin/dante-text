@@ -1084,7 +1084,7 @@ riscontro alla citazione iniziale del Guinizzelli; eppure quanta tragica
 intensit@a acquista questa consumata regola in bocca a Francesca, che per
 essa @e per sempre colpita e condotta alla morte e alla dannazione! Per
 la posizione di Dante di fronte a tale concezione fatalistica, si cfr. la
-nota [integretiva al v. 102]. Egli non interviene mai con un giudizio;
+nota [integrativa al v. 102]. Egli non interviene mai con un giudizio;
 la storia porta con s$e la propria tragica ragione.
 
 	|104.~ ^del costui piacer:~ della bellezza di costui; ^piacere~

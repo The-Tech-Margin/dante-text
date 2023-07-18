@@ -1118,7 +1118,7 @@ dei peccatori dello Stige si veda comunque l'Introduzione al canto VIII.
 palude; cfr. ^Ps.~ 68, 3: <Infixus sum in limo profundi> (Pietro).
 
 ^-- Tristi fummo~: la tristezza @e connotazione tipica degli accidiosi
-(cfr. nota finale [|la nota integretiva~ trovata in quella ai vv.
+(cfr. nota finale [|la nota integrativa~ trovata in quella ai vv.
 115-120]); essi furono tali sulla terra, nell'aria dolce e rallegrata dal
 sole, ed ora sono condannati ad esserlo per sempre ^(or ci attristiam)~
 nella melma ^(belletta)~ oscura del fondo della palude.
