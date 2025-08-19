@@ -1,0 +1,22 @@
+{
+  "name": "dante-supabase-migration",
+  "version": "1.0.0",
+  "description": "Migration tool for Dartmouth Dante Project from Oracle to Supabase",
+  "main": "index.js",
+  "scripts": {
+    "migrate:commentaries": "node scripts/migrate-commentaries.js",
+    "setup:schema": "node scripts/setup-schema.js",
+    "validate": "node scripts/validate-data.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "author": "SuperSonic @TheTechMargin",
+  "license": "MIT"
+}
