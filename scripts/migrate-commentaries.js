@@ -75,7 +75,7 @@ async function processCommentary(commName) {
   }
 
   // Generate commentary ID (using publication year + tie-breaker)
-  const commId = generateCommId(metadata.pubd || '1300');
+  const commId = generateCommId(metadata.pubd || '1300', commName);
   
   // Create commentary record
   const commentary = {
@@ -130,7 +130,7 @@ async function processCantica(canticaPath, commentaryId, commId, cantica) {
     const filePath = path.join(canticaPath, file);
     const cantoNum = path.basename(file, '.e');
     
-    const segments = parseTextFile(filePath, commId, cantica, cantoNum);
+    const segments = parseTextFile(filePath, commId, cantica, cantoNum, usedDocIds);
     
     for (const segment of segments) {
       const textRecord = {
@@ -185,13 +185,35 @@ async function insertTextBatch(batch) {
   }
 }
 
-function generateCommId(pubYear) {
+// Track used comm_ids to ensure uniqueness
+const usedCommIds = new Set();
+
+// Track used doc_ids globally to ensure uniqueness across all commentaries
+const usedDocIds = new Set();
+
+function generateCommId(pubYear, commName) {
   // Extract year from publication string
   const yearMatch = pubYear.match(/(\d{4})/);
   const year = yearMatch ? yearMatch[1] : '1300';
   
-  // Use default tie-breaker of 5
-  return year + '5';
+  // Start with tie-breaker 0 and increment until unique
+  let tieBreaker = 0;
+  let commId;
+  
+  do {
+    commId = year + tieBreaker.toString();
+    tieBreaker++;
+  } while (usedCommIds.has(commId) && tieBreaker < 10);
+  
+  // If still not unique after 10 attempts, use commentary name hash
+  if (usedCommIds.has(commId)) {
+    const nameHash = commName.split('').reduce((hash, char) => 
+      ((hash << 5) - hash + char.charCodeAt(0)) & 0x7fff, 0);
+    commId = year + (nameHash % 100).toString().padStart(2, '0');
+  }
+  
+  usedCommIds.add(commId);
+  return commId;
 }
 
 // Run migration if called directly
