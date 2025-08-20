@@ -169,26 +169,53 @@ async function processCantica(canticaPath, commentaryId, commId, cantica) {
 }
 
 async function insertTextBatch(batch) {
-  const { error } = await supabase
-    .from('dde_texts')
-    .upsert(batch, { 
-      onConflict: 'doc_id',
-      ignoreDuplicates: false 
-    });
-
-  if (error) {
-    console.error('Batch upsert error:', error);
-    // Try individual upserts for debugging
-    for (const record of batch) {
-      const { error: individualError } = await supabase
+  // Skip upsert entirely - use manual insert/update logic
+  for (const record of batch) {
+    // First try to find existing record
+    const { data: existing, error: selectError } = await supabase
+      .from('dde_texts')
+      .select('id')
+      .eq('doc_id', record.doc_id)
+      .maybeSingle(); // Use maybeSingle to avoid errors when no record found
+    
+    if (selectError) {
+      console.error(`Error checking existing record ${record.doc_id}:`, selectError.message);
+      continue;
+    }
+    
+    if (existing) {
+      // Update existing record
+      const { error: updateError } = await supabase
         .from('dde_texts')
-        .upsert(record, { 
-          onConflict: 'doc_id',
-          ignoreDuplicates: false 
-        });
+        .update({
+          commentary_id: record.commentary_id,
+          cantica: record.cantica,
+          canto_id: record.canto_id,
+          start_line: record.start_line,
+          end_line: record.end_line,
+          text_language: record.text_language,
+          text_type: record.text_type,
+          source_path: record.source_path,
+          content: record.content,
+          updated_at: new Date().toISOString()
+        })
+        .eq('doc_id', record.doc_id);
       
-      if (individualError) {
-        console.error(`Failed to upsert text record ${record.doc_id}:`, individualError.message);
+      if (updateError) {
+        console.error(`Failed to update text record ${record.doc_id}:`, updateError.message);
+      } else {
+        console.log(`✓ Updated text record ${record.doc_id}`);
+      }
+    } else {
+      // Insert new record
+      const { error: insertError } = await supabase
+        .from('dde_texts')
+        .insert(record);
+      
+      if (insertError) {
+        console.error(`Failed to insert text record ${record.doc_id}:`, insertError.message);
+      } else {
+        console.log(`✓ Inserted text record ${record.doc_id}`);
       }
     }
   }

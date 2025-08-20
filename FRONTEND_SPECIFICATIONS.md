@@ -1,18 +1,104 @@
 # Frontend Specifications: Dante Commentary Platform
+## **TheTechMargin Dark Mode Design System**
 
 ## 🏗️ **Architecture Overview**
 
-**Tech Stack Recommendation:**
+**Tech Stack (TTM Standards):**
 - **Framework**: Next.js 15.1+ with TypeScript
 - **Database**: Supabase (PostgreSQL)
-- **Styling**: Tailwind CSS + shadcn/ui components
+- **Styling**: Tailwind CSS with TTM custom theme
+- **Fonts**: Poppins (primary) + Pacifico (brand accents)
 - **State Management**: Zustand or React Query
-- **Search**: Real-time with debounced queries
+- **Theme**: Dark mode default with TTM brand colors
 - **Performance**: React Suspense + virtualization
+
+## 🎨 **TTM Brand Design System**
+
+### **Color Palette**
+
+#### **Primary Brand Colors**
+```css
+:root {
+  /* TTM Core Colors */
+  --ttm-cyan: #09fff0;      /* Primary accent, highlights, buttons */
+  --ttm-magenta: #ff2d8a;   /* Secondary accent, CTAs, hover states */
+  --ttm-black: #000000;     /* Main backgrounds, primary text */
+  
+  /* Supporting Dark Theme */
+  --ttm-deep-black: #0D0D0D;   /* Card backgrounds, elevated surfaces */
+  --ttm-dark-gray: #333333;    /* Secondary text, headers */
+  --ttm-medium-gray: #a3a3a3;  /* Metadata, borders */
+  --ttm-light-gray: #f5f5f5;   /* Minimal light accents */
+  
+  /* Interactive States */
+  --ttm-cyan-hover: rgba(9, 255, 240, 0.9);
+  --ttm-cyan-active: rgba(9, 255, 240, 0.2);
+  --ttm-magenta-hover: rgba(255, 45, 138, 0.9);
+  
+  /* Gradients */
+  --ttm-primary-gradient: linear-gradient(135deg, #09fff0 0%, #ff2d8a 100%);
+  --ttm-cyan-gradient: linear-gradient(135deg, #09fff0 0%, #0099cc 100%);
+}
+```
+
+### **Typography System**
+
+#### **Font Stack**
+```css
+/* Primary Font - Poppins */
+.font-primary {
+  font-family: 'Poppins', ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Brand Font - Pacifico */
+.font-brand {
+  font-family: 'Pacifico', cursive;
+}
+
+/* Display Text - Brand Headers */
+.text-display {
+  font-family: 'Pacifico', cursive;
+  font-size: 3.75rem; /* 60px */
+  color: var(--ttm-cyan);
+  text-shadow: 0 0 20px rgba(9, 255, 240, 0.4);
+}
+
+/* Page Titles */
+.text-h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem; /* 48px */
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* Section Headers */
+.text-h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.25rem; /* 36px */
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* Body Text */
+.text-body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem; /* 16px */
+  font-weight: 400;
+  color: var(--ttm-medium-gray);
+  line-height: 1.6;
+}
+
+/* Metadata */
+.text-meta {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.875rem; /* 14px */
+  color: var(--ttm-dark-gray);
+}
+```
 
 ## 📋 **Core Components & API Endpoints**
 
-### 1. **Search & Discovery Interface**
+### 1. **Search & Discovery Interface (TTM Style)**
 
 #### **GlobalSearchBar Component**
 ```typescript
@@ -29,20 +115,69 @@ interface SearchFilters {
 }
 ```
 
+**TTM Search Input Styling:**
+```css
+.ttm-search-input {
+  background: var(--ttm-dark-gray);
+  border: 2px solid rgba(9, 255, 240, 0.2);
+  border-radius: 12px;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  padding: 12px 16px;
+  transition: all 0.3s ease;
+}
+
+.ttm-search-input:focus {
+  border-color: var(--ttm-cyan);
+  box-shadow: 0 0 0 3px rgba(9, 255, 240, 0.2);
+  outline: none;
+}
+
+.ttm-search-input::placeholder {
+  color: var(--ttm-medium-gray);
+}
+```
+
 **API Integration:**
 - `POST /api/search/commentaries` → `search_commentaries_ranked()`
 - `POST /api/search/texts` → `search_texts_with_context()`
 - `POST /api/search/highlights` → `search_with_highlights()`
 
-#### **SearchResults Component**
-- **Infinite scrolling** with virtualized results
-- **Ranked relevance** display with score indicators
-- **Text highlighting** with `<mark>` tags
-- **Filter sidebar** with real-time counts
+#### **TTM SearchResults Component**
+```css
+.ttm-search-results {
+  background: var(--ttm-black);
+  padding: 20px;
+}
 
-### 2. **Navigation & Browsing**
+.ttm-result-card {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  margin-bottom: 16px;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
 
-#### **NavigationTree Component**
+.ttm-result-card:hover {
+  border-color: rgba(9, 255, 240, 0.4);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(9, 255, 240, 0.1);
+}
+
+.ttm-highlight {
+  background: linear-gradient(135deg, 
+    rgba(9, 255, 240, 0.2) 0%, 
+    rgba(255, 45, 138, 0.2) 100%);
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+```
+
+### 2. **Navigation & Browsing (TTM Style)**
+
+#### **TTM NavigationTree Component**
 ```typescript
 interface NavigationNode {
   cantica: 'inferno' | 'purgatorio' | 'paradiso';
@@ -53,18 +188,49 @@ interface NavigationNode {
 }
 ```
 
-**Features:**
-- **Collapsible tree structure** (Cantica → Canto → Line ranges)
-- **Badge indicators** showing text counts per section
-- **Progress visualization** showing commentary coverage
-- **Quick jump navigation** with search-within-tree
+**TTM Navigation Styling:**
+```css
+.ttm-nav-tree {
+  background: var(--ttm-deep-black);
+  border-right: 2px solid var(--ttm-cyan);
+  padding: 20px;
+}
+
+.ttm-nav-item {
+  color: var(--ttm-medium-gray);
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+}
+
+.ttm-nav-item:hover {
+  background: rgba(9, 255, 240, 0.1);
+  color: var(--ttm-cyan);
+}
+
+.ttm-nav-item.active {
+  background: var(--ttm-primary-gradient);
+  color: var(--ttm-black);
+  font-weight: 600;
+}
+
+.ttm-nav-badge {
+  background: var(--ttm-magenta);
+  color: #ffffff;
+  border-radius: 20px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+```
 
 **API Integration:**
 - `GET /api/navigation/tree?commentary_id={id}` → `get_navigation_tree()`
 
-### 3. **Commentary Analysis Dashboard**
+### 3. **Commentary Analysis Dashboard (TTM Style)**
 
-#### **CommentaryStats Component**
+#### **TTM CommentaryStats Component**
 ```typescript
 interface CommentaryStats {
   total_texts: number;
@@ -78,18 +244,49 @@ interface CommentaryStats {
 }
 ```
 
-**Visualizations:**
-- **Coverage heatmap** showing cantica/canto completion
-- **Language distribution** pie chart
-- **Text length histogram** for content analysis
-- **Timeline view** of last updates
+**TTM Stats Card Styling:**
+```css
+.ttm-stats-card {
+  background: var(--ttm-deep-black);
+  border: 2px solid;
+  border-image: var(--ttm-primary-gradient) 1;
+  border-radius: 12px;
+  padding: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.ttm-stats-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--ttm-primary-gradient);
+}
+
+.ttm-stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--ttm-cyan);
+  font-family: 'Poppins', sans-serif;
+}
+
+.ttm-stat-label {
+  color: var(--ttm-medium-gray);
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+```
 
 **API Integration:**
 - `GET /api/commentary/{id}/stats` → `get_commentary_stats()`
 
-### 4. **Comparative Analysis Interface**
+### 4. **Comparative Analysis Interface (TTM Style)**
 
-#### **PassageComparison Component**
+#### **TTM PassageComparison Component**
 ```typescript
 interface PassageFilter {
   cantica: 'inferno' | 'purgatorio' | 'paradiso';
@@ -108,35 +305,231 @@ interface CommentaryComparison {
 }
 ```
 
-**Features:**
-- **Side-by-side commentary** comparison view
-- **Passage selector** with line-by-line navigation
-- **Coverage scoring** with visual indicators
-- **Export functionality** for research citations
+**TTM Comparison Panel Styling:**
+```css
+.ttm-comparison-panel {
+  background: var(--ttm-deep-black);
+  border-left: 4px solid var(--ttm-cyan);
+  border-radius: 0 8px 8px 0;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.ttm-comparison-panel:nth-child(even) {
+  border-left-color: var(--ttm-magenta);
+}
+
+.ttm-coverage-score {
+  display: inline-block;
+  background: var(--ttm-cyan-gradient);
+  color: var(--ttm-black);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+```
 
 **API Integration:**
 - `POST /api/analysis/compare-passage` → `compare_commentaries_by_passage()`
 
-## 🎨 **UI/UX Specifications**
+## 🎯 **TTM UI Component Library**
 
-### **Design System**
+### **Buttons**
 
-#### **Color Palette**
-- **Primary**: Scholarly blue (`#1e40af`) for navigation
-- **Secondary**: Renaissance gold (`#f59e0b`) for highlights  
-- **Text**: High contrast (`#111827` on `#f9fafb`)
-- **Accent**: Dante red (`#dc2626`) for important passages
+```css
+/* Primary Button - TTM Cyan */
+.ttm-btn-primary {
+  background: var(--ttm-cyan-gradient);
+  color: var(--ttm-black);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
 
-#### **Typography**
-- **Headers**: Inter/System fonts for modern readability
-- **Body Text**: Georgia/serif fonts for scholarly content
-- **Code/IDs**: JetBrains Mono for doc IDs and metadata
+.ttm-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(9, 255, 240, 0.4);
+}
 
-#### **Layout Patterns**
-- **Responsive grid**: 12-column system with breakpoints
-- **Sidebar navigation**: Collapsible tree on desktop
-- **Mobile-first**: Hamburger menu with overlay navigation
-- **Accessibility**: WCAG 2.1 AA compliance throughout
+/* Secondary Button - TTM Magenta */
+.ttm-btn-secondary {
+  background: linear-gradient(135deg, var(--ttm-magenta) 0%, #cc0066 100%);
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Tertiary Button - TTM Cyan Outline */
+.ttm-btn-tertiary {
+  background: transparent;
+  color: var(--ttm-cyan);
+  border: 2px solid var(--ttm-cyan);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  padding: 10px 22px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.ttm-btn-tertiary:hover {
+  background: var(--ttm-cyan-active);
+}
+```
+
+### **Cards & Panels**
+
+```css
+.ttm-card-standard {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+.ttm-card-featured {
+  background: var(--ttm-deep-black);
+  border: 2px solid;
+  border-image: var(--ttm-primary-gradient) 1;
+  border-radius: 12px;
+  padding: 24px;
+  position: relative;
+}
+
+.ttm-card-glow {
+  box-shadow: 0 0 30px rgba(9, 255, 240, 0.3);
+}
+```
+
+### **Form Elements**
+
+```css
+.ttm-input {
+  background: var(--ttm-dark-gray);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  padding: 12px 16px;
+  transition: all 0.3s ease;
+}
+
+.ttm-input:focus {
+  border-color: var(--ttm-cyan);
+  box-shadow: 0 0 0 3px rgba(9, 255, 240, 0.2);
+  outline: none;
+}
+
+.ttm-select {
+  background: var(--ttm-dark-gray);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+```
+
+## 🚀 **TTM Animations & Effects**
+
+### **Brand Animations**
+
+```css
+/* Shimmer Effect */
+@keyframes ttm-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.ttm-shimmer {
+  background: linear-gradient(90deg, 
+    transparent, 
+    rgba(9, 255, 240, 0.4), 
+    transparent);
+  background-size: 200% 100%;
+  animation: ttm-shimmer 2s infinite;
+}
+
+/* Float Animation */
+@keyframes ttm-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.ttm-float {
+  animation: ttm-float 3s ease-in-out infinite;
+}
+
+/* Glow Effects */
+.ttm-glow-cyan {
+  box-shadow: 0 0 30px rgba(9, 255, 240, 0.3);
+}
+
+.ttm-glow-magenta {
+  box-shadow: 0 0 20px rgba(255, 45, 138, 0.4);
+}
+
+/* Pulse Effect */
+@keyframes ttm-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.ttm-pulse {
+  animation: ttm-pulse 2s infinite;
+}
+```
+
+## 📱 **Responsive Design (TTM Standards)**
+
+### **Breakpoints**
+```css
+/* TTM Responsive Breakpoints */
+.ttm-mobile { /* 375px - 768px */ }
+.ttm-tablet { /* 768px - 1024px */ }
+.ttm-desktop { /* 1024px - 1440px */ }
+.ttm-large { /* 1440px+ */ }
+```
+
+### **Mobile-First TTM Layout**
+```css
+.ttm-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media (max-width: 768px) {
+  .ttm-container {
+    padding: 0 16px;
+  }
+  
+  .text-h1 {
+    font-size: 2rem;
+  }
+  
+  .ttm-nav-tree {
+    position: fixed;
+    left: -100%;
+    transition: left 0.3s ease;
+  }
+  
+  .ttm-nav-tree.open {
+    left: 0;
+  }
+}
+```
 
 ### **Interactive Components**
 
