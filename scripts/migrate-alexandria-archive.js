@@ -111,44 +111,196 @@ async function analyzeArchiveStructure() {
 }
 
 /**
- * Get or create commentary version record
+ * Create or get commentary version record
  */
-async function getOrCreateCommentaryVersion(baseCommentaryId, versionIdentifier, versionSource, originalPath, metadata = {}) {
+async function getOrCreateCommentaryVersion(commentaryName, versionIdentifier, versionSource) {
   try {
+    // First find the base commentary by name (logical linking)
+    const { data: baseCommentary, error: baseError } = await supabase
+      .from('dde_commentaries')
+      .select('id, comm_name')
+      .eq('comm_name', commentaryName)
+      .single();
+
+    if (baseError || !baseCommentary) {
+      console.warn(`⚠️  Base commentary not found: ${commentaryName}`);
+      return null;
+    }
+
     // Check if version already exists
-    const { data: existing } = await supabase
+    const { data: existingVersion } = await supabase
       .from('alex_commentary_versions')
       .select('id')
-      .eq('base_commentary_id', baseCommentaryId)
+      .eq('base_commentary_id', baseCommentary.id)
       .eq('version_identifier', versionIdentifier)
       .single();
-    
-    if (existing) {
-      return existing.id;
+
+    if (existingVersion) {
+      return existingVersion.id;
     }
-    
+
     // Create new version record
-    const { data: newVersion, error } = await supabase
+    const { data: newVersion, error: insertError } = await supabase
       .from('alex_commentary_versions')
       .insert({
-        base_commentary_id: baseCommentaryId,
+        base_commentary_id: baseCommentary.id,
         version_identifier: versionIdentifier,
         version_source: versionSource,
-        file_path: originalPath,
-        provenance_info: metadata,
-        editorial_status: 'archived'
+        editorial_status: 'archived',
+        editor_notes: `Migrated from Alexandria Archive: ${versionIdentifier}`,
+        date_created: new Date().toISOString()
       })
       .select('id')
       .single();
-    
-    if (error) throw error;
-    
-    stats.commentary_versions++;
+
+    if (insertError) {
+      console.error(`❌ Error creating commentary version: ${insertError.message}`);
+      return null;
+    }
+
+    console.log(`✅ Created commentary version: ${versionIdentifier}`);
     return newVersion.id;
+
   } catch (error) {
-    console.error(`❌ Error creating commentary version:`, error.message);
-    throw error;
+    console.error(`❌ Error in getOrCreateCommentaryVersion: ${error.message}`);
+    return null;
   }
+}
+
+/**
+ * Process historical text segments using logical linking
+ */
+async function processHistoricalTexts(commentaryVersionId, commentaryName, textFiles, basePath) {
+  let processedCount = 0;
+  const errors = [];
+
+  for (const fileName of textFiles) {
+    try {
+      const filePath = path.join(basePath, fileName);
+      const content = await fs.readFile(filePath, 'utf8');
+      
+      // Parse DDP format
+      const segments = parseDDPContent(content, fileName);
+      
+      for (const segment of segments) {
+        // Use logical linking instead of foreign key constraints
+        const { error: insertError } = await supabase
+          .from('alex_texts_historical')
+          .insert({
+            commentary_version_id: commentaryVersionId,
+            commentary_name: commentaryName, // Logical link to dde_commentaries.comm_name
+            cantica: segment.cantica,
+            canto_id: segment.canto_id,
+            start_line: segment.start_line,
+            end_line: segment.end_line,
+            content: segment.content,
+            text_type: segment.text_type,
+            text_language: segment.language || 'italian',
+            original_file_path: `${basePath}/${fileName}`,
+            variant_notes: segment.notes || null,
+            editorial_changes: segment.editorialChanges || {},
+            modern_equivalent_found: false, // Will be computed later
+            similarity_score: null // Will be computed later
+          });
+
+        if (insertError) {
+          errors.push(`${fileName}: ${insertError.message}`);
+          continue;
+        }
+
+        processedCount++;
+      }
+
+    } catch (error) {
+      errors.push(`${fileName}: ${error.message}`);
+    }
+  }
+
+  return { processedCount, errors };
+}
+
+/**
+ * Compute modern text equivalents and similarities (post-migration)
+ */
+async function computeModernEquivalents() {
+  console.log('\n📊 Computing modern text equivalents and similarities...');
+  
+  try {
+    // Get all historical texts without modern equivalents
+    const { data: historicalTexts } = await supabase
+      .from('alex_texts_historical')
+      .select('id, commentary_name, cantica, canto_id, start_line, end_line, content')
+      .eq('modern_equivalent_found', false);
+
+    if (!historicalTexts?.length) {
+      console.log('No historical texts to process for modern equivalents');
+      return;
+    }
+
+    let matchedCount = 0;
+
+    for (const historical of historicalTexts) {
+      // Find potential modern equivalents using logical linking
+      const { data: modernTexts } = await supabase
+        .from('dde_texts')
+        .select('id, content')
+        .eq('cantica', historical.cantica)
+        .eq('canto_id', historical.canto_id)
+        .gte('start_line', historical.start_line - 2) // Allow some line number drift
+        .lte('end_line', historical.end_line + 2)
+        .eq('dde_commentaries.comm_name', historical.commentary_name);
+
+      if (modernTexts?.length > 0) {
+        // Find best match using simple content similarity
+        let bestMatch = null;
+        let bestSimilarity = 0;
+
+        for (const modern of modernTexts) {
+          const similarity = calculateContentSimilarity(historical.content, modern.content);
+          if (similarity > bestSimilarity) {
+            bestSimilarity = similarity;
+            bestMatch = modern;
+          }
+        }
+
+        // Update historical text with modern equivalent info
+        if (bestMatch && bestSimilarity > 0.3) { // 30% similarity threshold
+          await supabase
+            .from('alex_texts_historical')
+            .update({
+              modern_equivalent_found: true,
+              similarity_score: Math.round(bestSimilarity * 100) / 100
+            })
+            .eq('id', historical.id);
+
+          matchedCount++;
+        }
+      }
+    }
+
+    console.log(`✅ Matched ${matchedCount}/${historicalTexts.length} historical texts with modern equivalents`);
+
+  } catch (error) {
+    console.error(`❌ Error computing modern equivalents: ${error.message}`);
+  }
+}
+
+/**
+ * Simple content similarity calculation
+ */
+function calculateContentSimilarity(text1, text2) {
+  if (!text1 || !text2) return 0;
+  
+  const words1 = text1.toLowerCase().split(/\s+/).filter(w => w.length > 2);
+  const words2 = text2.toLowerCase().split(/\s+/).filter(w => w.length > 2);
+  
+  const set1 = new Set(words1);
+  const set2 = new Set(words2);
+  
+  const intersection = new Set([...set1].filter(x => set2.has(x)));
+  const union = new Set([...set1, ...set2]);
+  
+  return union.size > 0 ? intersection.size / union.size : 0;
 }
 
 /**
@@ -241,11 +393,9 @@ async function migrateCommentary(commentaryName, versionSource, archivePath) {
     
     // Create version record
     const versionId = await getOrCreateCommentaryVersion(
-      modernCommentary.id,
+      commentaryName,
       versionIdentifier,
-      versionSource,
-      commentaryPath,
-      { migrated_from: 'alexandria_archive', original_path: commentaryPath }
+      versionSource
     );
     
     // Parse description file if exists
@@ -289,13 +439,19 @@ async function migrateCommentary(commentaryName, versionSource, archivePath) {
                 .from('alex_texts_historical')
                 .insert({
                   commentary_version_id: versionId,
+                  commentary_name: commentaryName, // Logical link to dde_commentaries.comm_name
                   cantica: cantica === 'inf' ? 'inferno' : cantica === 'purg' ? 'purgatorio' : 'paradiso',
                   canto_id: cantoId,
                   start_line: segment.start_line,
                   end_line: segment.end_line,
                   content: segment.content,
                   text_type: segment.text_type,
-                  original_encoding: segment.original_encoding
+                  text_language: segment.language || 'italian',
+                  original_file_path: `${canticaPath}/${file}`,
+                  variant_notes: segment.notes || null,
+                  editorial_changes: segment.editorialChanges || {},
+                  modern_equivalent_found: false, // Will be computed later
+                  similarity_score: null // Will be computed later
                 });
               
               stats.historical_texts++;

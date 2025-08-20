@@ -36,17 +36,28 @@ CREATE TABLE alex_commentary_versions (
 -- 3. HISTORICAL TEXT SEGMENTS
 CREATE TABLE alex_texts_historical (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  commentary_version_id UUID REFERENCES alex_commentary_versions(id),
-  modern_text_id UUID REFERENCES dde_texts(id), -- Link to current version
+  commentary_version_id UUID,
+  
+  -- LOGICAL LINKING (No Foreign Key Constraints)
+  commentary_name VARCHAR(64) NOT NULL, -- Links to dde_commentaries.comm_name
   cantica cantica_type NOT NULL,
   canto_id INTEGER NOT NULL,
   start_line INTEGER NOT NULL,
   end_line INTEGER NOT NULL,
   content TEXT NOT NULL,
   text_type text_type NOT NULL,
-  variant_notes TEXT,
-  editorial_changes JSONB,
+  text_language language_type NOT NULL,
+  
+  -- SCHOLARLY PROVENANCE
+  original_file_path VARCHAR(255), -- Alexandria archive source path
+  variant_notes TEXT, -- Textual variant descriptions
+  editorial_changes JSONB DEFAULT '{}', -- What changed from original
   original_encoding VARCHAR(32),
+  
+  -- MATCHING METADATA
+  modern_equivalent_found BOOLEAN DEFAULT FALSE, -- Has matching modern text
+  similarity_score DECIMAL(3,2), -- Computed similarity to modern version
+  
   created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
@@ -111,8 +122,8 @@ CREATE TABLE alex_migration_log (
 CREATE INDEX idx_alex_commentary_versions_base ON alex_commentary_versions(base_commentary_id);
 CREATE INDEX idx_alex_commentary_versions_source ON alex_commentary_versions(version_source);
 CREATE INDEX idx_alex_texts_historical_version ON alex_texts_historical(commentary_version_id);
-CREATE INDEX idx_alex_texts_historical_modern ON alex_texts_historical(modern_text_id);
 CREATE INDEX idx_alex_texts_historical_passage ON alex_texts_historical(cantica, canto_id, start_line, end_line);
+CREATE INDEX idx_alex_texts_historical_commentary ON alex_texts_historical(commentary_name);
 CREATE INDEX idx_alex_annotations_text ON alex_scholarly_annotations(text_id);
 CREATE INDEX idx_alex_annotations_type ON alex_scholarly_annotations(annotation_type);
 CREATE INDEX idx_alex_relationships_source ON alex_commentary_relationships(source_commentary_id);
