@@ -271,38 +271,39 @@ LANGUAGE plpgsql
 AS $$
 BEGIN
   RETURN QUERY
-  -- Search current texts
-  SELECT 
-    c.comm_name,
-    'current_2024'::version_source,
-    t.cantica,
-    t.canto_id,
-    t.content as content_match,
-    false as is_historical,
-    ts_rank(to_tsvector('english', t.content), plainto_tsquery('english', search_term)) as relevance_score
-  FROM dde_texts t
-  JOIN dde_commentaries c ON t.commentary_id = c.id
-  WHERE to_tsvector('english', t.content) @@ plainto_tsquery('english', search_term)
-  AND (version_filter IS NULL OR version_filter = 'current_2024')
-  
-  UNION ALL
-  
-  -- Search historical texts (if enabled)
-  SELECT 
-    c.comm_name,
-    cv.version_source,
-    th.cantica,
-    th.canto_id,
-    th.content as content_match,
-    true as is_historical,
-    ts_rank(to_tsvector('english', th.content), plainto_tsquery('english', search_term)) as relevance_score
-  FROM alex_texts_historical th
-  JOIN alex_commentary_versions cv ON th.commentary_version_id = cv.id
-  JOIN dde_commentaries c ON cv.base_commentary_id = c.id
-  WHERE include_historical = true
-  AND to_tsvector('english', th.content) @@ plainto_tsquery('english', search_term)
-  AND (version_filter IS NULL OR cv.version_source = version_filter)
-  
+  SELECT * FROM (
+    -- Search current texts
+    SELECT 
+      c.comm_name,
+      'current_2024'::version_source,
+      t.cantica,
+      t.canto_id,
+      t.content as content_match,
+      false as is_historical,
+      ts_rank(to_tsvector('english', t.content), plainto_tsquery('english', search_term)) as relevance_score
+    FROM dde_texts t
+    JOIN dde_commentaries c ON t.commentary_id = c.id
+    WHERE to_tsvector('english', t.content) @@ plainto_tsquery('english', search_term)
+    AND (version_filter IS NULL OR version_filter = 'current_2024')
+    
+    UNION ALL
+    
+    -- Search historical texts (if enabled)
+    SELECT 
+      c.comm_name,
+      cv.version_source,
+      th.cantica,
+      th.canto_id,
+      th.content as content_match,
+      true as is_historical,
+      ts_rank(to_tsvector('english', th.content), plainto_tsquery('english', search_term)) as relevance_score
+    FROM alex_texts_historical th
+    JOIN alex_commentary_versions cv ON th.commentary_version_id = cv.id
+    JOIN dde_commentaries c ON cv.base_commentary_id = c.id
+    WHERE include_historical = true
+    AND to_tsvector('english', th.content) @@ plainto_tsquery('english', search_term)
+    AND (version_filter IS NULL OR cv.version_source = version_filter)
+  ) combined_results
   ORDER BY relevance_score DESC, commentary_name, canto_id;
 END;
 $$;

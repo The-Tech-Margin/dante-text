@@ -68,9 +68,9 @@ async function testSchemaDeployment() {
     for (const table of tables) {
       const { error } = await supabase
         .from(table)
-        .select('count(*)', { count: 'exact', head: true });
+        .select('*', { count: 'exact', head: true });
       
-      logTest(`Table ${table} exists`, !error, error?.message);
+      logTest(`Table ${table} exists`, !error, error?.message || 'Table accessible');
     }
     
     // Test version_source enum
