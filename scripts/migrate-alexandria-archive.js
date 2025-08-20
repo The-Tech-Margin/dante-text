@@ -21,6 +21,8 @@ if (!supabaseUrl || !supabaseKey) {
   process.exit(1);
 }
 
+const supabase = createClient(supabaseUrl, supabaseKey);
+
 // Alexandria archive paths
 const ALEXANDRIA_PATHS = {
   dante_commentaries: './Alexandria-Archive/dante/Commentaries',
