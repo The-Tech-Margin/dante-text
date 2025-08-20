@@ -130,7 +130,7 @@ async function processCantica(canticaPath, commentaryId, commId, cantica) {
     const filePath = path.join(canticaPath, file);
     const cantoNum = path.basename(file, '.e');
     
-    const segments = parseTextFile(filePath, commId, cantica, cantoNum, usedDocIds);
+    const segments = parseTextFile(filePath, commId, cantica, cantoNum);
     
     for (const segment of segments) {
       const textRecord = {
@@ -188,8 +188,7 @@ async function insertTextBatch(batch) {
 // Track used comm_ids to ensure uniqueness
 const usedCommIds = new Set();
 
-// Track used doc_ids globally to ensure uniqueness across all commentaries
-const usedDocIds = new Set();
+// No longer need to track doc_ids - using auto-incrementing idx for uniqueness
 
 function generateCommId(pubYear, commName) {
   // Extract year from publication string
