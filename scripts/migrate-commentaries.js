@@ -90,15 +90,18 @@ async function processCommentary(commName) {
     comm_data_entry: metadata.dent || null
   };
 
-  // Insert commentary into database
+  // Upsert commentary into database (insert or update if exists)
   const { data: insertedCommentary, error: commError } = await supabase
     .from('dde_commentaries')
-    .insert(commentary)
+    .upsert(commentary, { 
+      onConflict: 'comm_id',
+      ignoreDuplicates: false 
+    })
     .select()
     .single();
 
   if (commError) {
-    throw new Error(`Failed to insert commentary: ${commError.message}`);
+    throw new Error(`Failed to upsert commentary: ${commError.message}`);
   }
 
   console.log(`  💾 Inserted commentary metadata for ${commName}`);
@@ -168,18 +171,24 @@ async function processCantica(canticaPath, commentaryId, commId, cantica) {
 async function insertTextBatch(batch) {
   const { error } = await supabase
     .from('dde_texts')
-    .insert(batch);
+    .upsert(batch, { 
+      onConflict: 'doc_id',
+      ignoreDuplicates: false 
+    });
 
   if (error) {
-    console.error('Batch insert error:', error);
-    // Try individual inserts for debugging
+    console.error('Batch upsert error:', error);
+    // Try individual upserts for debugging
     for (const record of batch) {
       const { error: individualError } = await supabase
         .from('dde_texts')
-        .insert(record);
+        .upsert(record, { 
+          onConflict: 'doc_id',
+          ignoreDuplicates: false 
+        });
       
       if (individualError) {
-        console.error(`Failed to insert text record ${record.doc_id}:`, individualError.message);
+        console.error(`Failed to upsert text record ${record.doc_id}:`, individualError.message);
       }
     }
   }
