@@ -171,20 +171,23 @@ async function processCantica(canticaPath, commentaryId, commId, cantica) {
 async function insertTextBatch(batch) {
   // Skip upsert entirely - use manual insert/update logic
   for (const record of batch) {
-    // First try to find existing record
-    const { data: existing, error: selectError } = await supabase
+    // First try to find existing records (might be multiple due to duplicates)
+    const { data: existingRecords, error: selectError } = await supabase
       .from('dde_texts')
       .select('id')
-      .eq('doc_id', record.doc_id)
-      .maybeSingle(); // Use maybeSingle to avoid errors when no record found
+      .eq('doc_id', record.doc_id);
     
     if (selectError) {
       console.error(`Error checking existing record ${record.doc_id}:`, selectError.message);
       continue;
     }
     
-    if (existing) {
-      // Update existing record
+    if (existingRecords && existingRecords.length > 0) {
+      if (existingRecords.length > 1) {
+        console.log(`⚠️  Found ${existingRecords.length} duplicate records for ${record.doc_id}, updating all`);
+      }
+      
+      // Update all existing records with this doc_id
       const { error: updateError } = await supabase
         .from('dde_texts')
         .update({
@@ -204,7 +207,7 @@ async function insertTextBatch(batch) {
       if (updateError) {
         console.error(`Failed to update text record ${record.doc_id}:`, updateError.message);
       } else {
-        console.log(`✓ Updated text record ${record.doc_id}`);
+        console.log(`✓ Updated ${existingRecords.length} record(s) for ${record.doc_id}`);
       }
     } else {
       // Insert new record
