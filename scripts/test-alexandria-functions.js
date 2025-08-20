@@ -194,11 +194,11 @@ async function testCrossVersionQueries() {
     // Test finding same passage across versions
     const testCommentary = 'hollander';
     
-    // Get current version
+    // Get current version using the embedded resource table
     const { data: currentTexts, error: currentError } = await supabase
-      .from('dde_texts')
-      .select('id, content, cantica, canto_id, start_line, end_line')
-      .eq('dde_commentaries.comm_name', testCommentary)
+      .from('dde_texts_with_commentary')
+      .select('id, content, cantica, canto_id, start_line, end_line, dde_commentaries')
+      .eq('dde_commentaries->>comm_name', testCommentary)
       .eq('cantica', 'inferno')
       .eq('canto_id', 1)
       .limit(1);
