@@ -1,0 +1,20 @@
+# Archive data - not needed for API deployment
+Alexandria-Archive/
+Commentaries/
+Testfiles/
+Sed/
+SQL/
+src/
+bin/
+Webapp-Archive/
+
+# Development files
+.env.local
+.env
+*.log
+node_modules/
+.DS_Store
+
+# Migration scripts data (keep scripts but exclude large data)
+scripts/output/
+scripts/temp/
