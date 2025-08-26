@@ -1,6 +1,7 @@
 // Next.js API Route: /api/alexandria/find-variants
 import { NextApiRequest, NextApiResponse } from 'next';
 import { supabase } from '../../lib/supabase';
+import { withSecurity, validateCantica, validateCanto, validateLine } from '../../lib/security';
 
 interface FindVariantsRequest {
   cantica: 'inferno' | 'purgatorio' | 'paradiso' | 'general';
@@ -9,10 +10,7 @@ interface FindVariantsRequest {
   end_line: number;
 }
 
-export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse
-) {
+async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
@@ -26,15 +24,28 @@ export default async function handler(
       });
     }
 
+    // Input validation
+    if (!validateCantica(cantica)) {
+      return res.status(400).json({ error: 'Invalid cantica. Must be: inferno, purgatorio, paradiso, or general' });
+    }
+
+    if (!validateCanto(canto)) {
+      return res.status(400).json({ error: 'Invalid canto. Must be a number between 1 and 100' });
+    }
+
+    if (!validateLine(start_line) || !validateLine(end_line)) {
+      return res.status(400).json({ error: 'Invalid line numbers. Must be between 1 and 200' });
+    }
+
     if (start_line > end_line) {
-      return res.status(400).json({ error: 'start_line must be <= end_line' });
+      return res.status(400).json({ error: 'Start line must be less than or equal to end line' });
     }
 
     const { data, error } = await supabase.rpc('alex_find_passage_variants', {
       input_cantica: cantica,
-      input_canto: canto,
-      input_start_line: start_line,
-      input_end_line: end_line
+      input_canto: parseInt(canto.toString()),
+      input_start_line: parseInt(start_line.toString()),
+      input_end_line: parseInt(end_line.toString())
     });
 
     if (error) {
@@ -53,3 +64,5 @@ export default async function handler(
     res.status(500).json({ error: 'Internal server error' });
   }
 }
+
+export default withSecurity(handler);
