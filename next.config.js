@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    // Enable static exports if needed for API-only deployment
-    outputStandalone: true,
-  },
+  output: 'standalone',
   // API routes configuration
   async rewrites() {
     return [

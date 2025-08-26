@@ -118,10 +118,6 @@ export interface PassageComparisonResponse {
   count: number;
 }
 
-  comparisons: PassageComparison[];
-  count: number;
-}
-
 // --- API Response Wrapper Types ---
 
 // For POST /api/search/commentaries
@@ -146,8 +142,6 @@ export interface HighlightSearchResponse {
 }
 
 // types/alexandria.ts
-
-import type { CanticaType, LanguageType, TextType, Commentary, TextResult } from './dante';
 
 export type VersionSource = 'original_1991' | 'post_1991' | 'current_2024' | 'alexandria_archive' | 'unknown';
 export type EditorialStatus = 'published' | 'draft' | 'revision' | 'archived' | 'fragment';
