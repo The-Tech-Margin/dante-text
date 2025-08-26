@@ -1,0 +1,55 @@
+// Next.js API Route: /api/ddp/find-passages
+import { NextApiRequest, NextApiResponse } from 'next';
+import { supabase } from '../../lib/supabase';
+
+interface DDPFindPassagesRequest {
+  cantica: 'inferno' | 'purgatorio' | 'paradiso' | 'general';
+  canto: number;
+  start_line: number;
+  end_line: number;
+}
+
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse
+) {
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method not allowed' });
+  }
+
+  try {
+    const { cantica, canto, start_line, end_line }: DDPFindPassagesRequest = req.body;
+
+    if (!cantica || !canto || start_line === undefined || end_line === undefined) {
+      return res.status(400).json({ 
+        error: 'Missing required fields: cantica, canto, start_line, end_line' 
+      });
+    }
+
+    if (start_line > end_line) {
+      return res.status(400).json({ error: 'start_line must be <= end_line' });
+    }
+
+    const { data, error } = await supabase.rpc('ddp_find_passages', {
+      input_cantica: cantica,
+      input_canto: canto,
+      input_start_line: start_line,
+      input_end_line: end_line
+    });
+
+    if (error) {
+      console.error('Supabase error:', error);
+      return res.status(500).json({ error: 'Failed to find passages', details: error.message });
+    }
+
+    res.status(200).json({
+      results: data || [],
+      count: data?.length || 0,
+      passage: { cantica, canto, start_line, end_line }
+    });
+
+  } catch (error) {
+    console.error('API error:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+}
